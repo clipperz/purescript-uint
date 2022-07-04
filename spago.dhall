@@ -1,9 +1,8 @@
 { name = "uint"
 , dependencies =
   [ "prelude"
-  , "math"
   , "maybe"
-  , "psci-support"
+  , "numbers"
   , "enums"
   , "gen"
   ]
